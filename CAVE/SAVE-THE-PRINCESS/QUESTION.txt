@@ -1,5 +1,0 @@
-The RED DRAGON asks a question.
-
-Which command is used to list all files and directories in the current directory? 
-
-Choose the write door.
