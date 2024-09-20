@@ -14,10 +14,10 @@ _#/|##########/\######(   /\   )######/\##########|\#_
                     (  | |  | |  )
                    __\ | |  | | /__
 
-The Twin Dragon are asking
+The Big Dragon is asking ....
 
-+++++++++++/\++++++++++++++++++++++++++++++++++++
-|   Which command is used to list all files     | 
-|   and directories in the current directory?   |
-|            Choose the write door.             |
-+++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++/\++++++++++++++++++++++++++++++++++++++++
+|     Which command is used to list all files       | 
+|     and directories in the current directory?     |
+|             Choose the right folder.              |
++++++++++++++++++++++++++++++++++++++++++++++++++++++
