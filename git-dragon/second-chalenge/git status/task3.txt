@@ -1,0 +1,1 @@
+Add a file named `treasure-map.txt` to the staging area
