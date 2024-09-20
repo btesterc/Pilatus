@@ -34,4 +34,4 @@ the question of the BIG DRAGON:
 |                                                   |
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Hint: You might enter one of three ROOMS: newdir, mkdir or mkfl.
+Hint: You might enter one of three ROOMS: newdir, mkdir or mkfl.git status
