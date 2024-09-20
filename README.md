@@ -36,9 +36,11 @@ Now, hero, go… into the CAVE!
     /        /  \_/  \      /  \         /        \ \  
    /        /    \    \    /    \       /          \ \ 
   /        /      \    \  /      \     /            \ \
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
                     O
-                   /|\  << The Hero
+                   /|\  << You are the HERO
                    / \
               
   Soundtrack https://www.youtube.com/watch?v=1ZS1Il6q7gs
+  Hint: you might type cd CAVE
