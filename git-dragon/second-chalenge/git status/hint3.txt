@@ -1,0 +1,1 @@
+Use the command that `adds` files to the staging area
