@@ -24,12 +24,16 @@ Now, hero, venture forth… into the CAVE!
           /\            /\            \       \   
          /  \ CLI      /  \            \ GIT   \    
         /    \        /    \            \       \   
-       /      \      /      \            \       \   
+       /      \      /      \ GITHUB     \       \   
       /________\    /________\            \______/\  
      /        /\   /\        /\           /      \ \  
     /        /  \_/  \      /  \         /        \ \  
-   /        /    \    \    /    \ GITHUB/          \ \ 
+   /        /    \    \    /    \        /          \ \ 
   /________/      \    \__/      \     /____________\/   
 
+                    O
+                   /|\
+                   / \
+               The Hero
 
-  Soundtrack https://www.youtube.com/watch?v=IXl09ddCCVA
+  Soundtrack https://www.youtube.com/watch?v=1ZS1Il6q7gs
