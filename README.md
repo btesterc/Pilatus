@@ -1,7 +1,7 @@
 Welcome, BRAVE HERO!
 
-You stand in fron of the legendary Mount Pilatus, and your grand adventure begins now. 
-Your mission? To gather as many treasures as you can while facing dazzling dragons. 
+You stand in front of the legendary Mount Pilatus, and your grand adventure begins now. 
+Your mission is to gather as many treasures as you can while facing dazzling dragons. 
 You will rescue captured princesses, uncover great fortunes, find a book of wisdom, 
 and in the end, you may even have the chance to save the world!
 
